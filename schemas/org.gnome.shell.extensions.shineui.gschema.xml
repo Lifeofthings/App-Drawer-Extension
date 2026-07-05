@@ -1,0 +1,5 @@
+<key name="enable-categories" type="b">
+<default>true</default>
+<summary>Enable categories row</summary>
+<description>Show app categories above the grid</description>
+</key>
