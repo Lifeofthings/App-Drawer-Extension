@@ -1,0 +1,8 @@
+{
+  "uuid": "app_drawer@ShineUI",
+  "name": "App Drawer",
+  "description": "A mobile inspired App Drawer for GNOME Shell by the ShineUI project",
+  "version": 1,
+  "shell-version": ["48", "49", "50"],
+  "extension-category": "UI"
+}
